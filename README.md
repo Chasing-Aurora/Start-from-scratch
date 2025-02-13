@@ -1,3 +1,3 @@
 # Start-from-scratch
-第一次(っ◞‸◟c)
-return 0 ;
+Time is valuable thing.
+Patient is key in life.
